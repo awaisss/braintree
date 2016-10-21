@@ -2,9 +2,9 @@
   "name": "braintree",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "server.js",
   "scripts": {
-    "test": ""
+    "start": "node server.js"
   },
   "author": "awais ilyas",
   "license": "ISC",
